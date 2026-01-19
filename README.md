@@ -19,7 +19,7 @@ Benchmarking **state-of-the-art ASR models** to identify the **best performer** 
 
 ---
 
-## 🧠 Models Evaluated
+## Models Evaluated
 
 | Model | Key Features |
 |-------|--------------|
@@ -36,14 +36,14 @@ Benchmarking **state-of-the-art ASR models** to identify the **best performer** 
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 - **Word Error Rate (WER)** – transcription accuracy  
 - **Inference Time** – speed on CPU  
 - **Memory Usage** – after load and after inference  
 
 ---
 
-## 🏁 Benchmark Results
+## Benchmark Results
 
 | Model           | WER   | Inference Time | Memory Usage | Recommendation |
 |----------------|-------|----------------|--------------|----------------|
@@ -55,7 +55,7 @@ Benchmarking **state-of-the-art ASR models** to identify the **best performer** 
 
 ---
 
-## ⚡ Usage (Demo)
+##  Usage (Demo)
 ```bash
 # Run Distil-Whisper
 python benchmark_distil_whisper.py
