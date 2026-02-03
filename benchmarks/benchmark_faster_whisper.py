@@ -47,3 +47,4 @@ print(f"Inference Time: {inference_time:.2f} sec")
 print(f"WER: {error:.3f}")
 print(f"Memory after load: {mem_after_load:.2f} MB")
 print(f"Memory after inference: {mem_after_inf:.2f} MB")
+
