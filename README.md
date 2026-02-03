@@ -128,6 +128,20 @@ All models are tested on the **same audio file** to ensure fairness.
 
 ---
 
+## 🛠️ Tools & Libraries Used
+
+| Tool / Library | Purpose |
+|----------------|--------|
+| `Python 3.10` | Core programming language |
+| `transformers` | Distil-Whisper pipeline |
+| `faster-whisper` | Optimized ASR inference |
+| `openai-whisper` | Baseline Whisper model |
+| `jiwer` | Word Error Rate calculation |
+| `psutil` | Memory usage tracking |
+| `time` | Latency measurement |
+
+---
+
 
 ##  Usage (Demo)
 ```bash
