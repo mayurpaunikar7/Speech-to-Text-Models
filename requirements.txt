@@ -1,0 +1,7 @@
+transformers
+faster-whisper
+openai-whisper
+torch
+jiwer
+psutil
+numpy
